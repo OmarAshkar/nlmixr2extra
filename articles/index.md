@@ -1,0 +1,16 @@
+# Articles
+
+### All vignettes
+
+- [Likelihood Profiling for NLME
+  Models](https://nlmixr2.github.io/nlmixr2extra/articles/likelihood-profiling.md):
+- [Model Linearization for IIV and Residual Error
+  Search](https://nlmixr2.github.io/nlmixr2extra/articles/model-linearization.md):
+- [Multistart
+  estimation](https://nlmixr2.github.io/nlmixr2extra/articles/multistart.md):
+- [nlmixr2 Algebraic Solutions with
+  Formula](https://nlmixr2.github.io/nlmixr2extra/articles/nlmixrFormula.md):
+- [Stabilizing Covariance Estimates with
+  preconditionFit()](https://nlmixr2.github.io/nlmixr2extra/articles/precondition.md):
+- [Helpers for writing modeling
+  reports](https://nlmixr2.github.io/nlmixr2extra/articles/reporting-helpers.md):
